@@ -26,12 +26,7 @@ class DottedBox extends Component {
        <Router>
       <div className='App'>
          <div className='bs-scrolling-header'>
-           <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-             <input type="hidden" name="cmd" value="_s-xclick"></input>
-             <input type="hidden" name="hosted_button_id" value="6XU6AKK3B2ZRE"></input>
-             <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!"></input>
-                   <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1" className='button-header'/>
-           </form>
+             <b><h1>WIT</h1></b>
 
 
          </div>
